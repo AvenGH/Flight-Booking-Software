@@ -1,0 +1,26 @@
+
+Dear Avaneesh,
+
+
+Your Air India Flight Has Successfully Been Booked.
+
+Flying On: 19/04/23
+
+Origin: Chennai International Airport, Chennai, IN
+
+Destination: Chhatrapati Shivaji International Airport, Mumbai, IN
+
+Number Of Passengers: 11
+
+Seat Numbers: ['024', '025', '026', '027', '028', '029', '030', '031', '032', '033', '034']
+
+
+Any queries or information that you are unsure about, Please visit our website or contact us via phone/email.
+
+
+Thanks,
+
+
+Air India
+
+			

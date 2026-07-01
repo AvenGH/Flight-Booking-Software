@@ -1,0 +1,23 @@
+
+
+Dear JV,
+
+Your British Airways Flight Has Successfully Been Booked.
+
+Flying On: 12/03/23
+
+Origin: London Heathrow Airport, London, GB
+
+Destination: Chennai International Airport, Chennai, IN
+
+Number Of Passengers: 3
+
+Seat Numbers: ['015', '016', '017']
+
+Any queries or information that you are unsure about, Please visit our website or contact us via phone/email.
+
+Thanks,
+
+British Airways
+
+			
